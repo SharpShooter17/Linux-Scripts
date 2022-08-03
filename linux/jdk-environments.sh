@@ -1,0 +1,6 @@
+export J2SDKDIR="/lib/jvm/default-java"
+export J2REDIR="/lib/jvm/default-java"
+export PATH="$PATH:/lib/jvm/default-java/bin:/usr/lib/jvm/default-java/db/bin"
+export JAVA_HOME="/lib/jvm/default-java"
+export DERBY_HOME="/lib/jvm/default-java/db"
+export JAVA_KEYSTORE="$JAVA_HOME/lib/security/cacerts"
